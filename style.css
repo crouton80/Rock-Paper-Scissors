@@ -1,0 +1,25 @@
+#gameContainer {
+  font-family: consolas, cursive;
+  border: 3px solid;
+  border-radius: 20px;
+  padding: 25px;
+  padding-top: 1px;
+  background-color: aliceblue;
+  text-align: center;
+}
+
+.choiceBtn {
+  font-family: consolas, cursive;
+  border: 2px solid;
+  border-radius: 8px;
+  background-color: azure;
+  line-height: 30px;
+  width: 100px;
+}
+
+#playerText {
+  color: cadetblue;
+}
+#computerText {
+  color: brown;
+}
